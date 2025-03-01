@@ -1,0 +1,29 @@
+.container {
+    display:flex;
+    flex-wrap:wrap;
+    align-content:flex-start;
+    border:0px solid black;
+    width:500px;
+    height:500px;
+    margin:auto;
+    
+}
+
+button {
+    display:block;
+    margin:auto;
+    margin-bottom:30px;
+    padding:5px;
+
+}
+
+div {
+    
+    box-sizing:border-box;
+    height:31px;
+    width:31px;
+}
+
+.coloring {
+    background-color: orange;
+}
